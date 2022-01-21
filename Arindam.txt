@@ -1,2 +1,15 @@
+<<<<<<< HEAD
 Arindam 1/21 12:57 pm
 Arindam 1/21 01:10 pm
+=======
+
+Arindam 1/21 12:57 pm
+
+Hi Arindam, 
+Create 2 branches, in the first branch add the subject code for this course and 
+
+In the second branch, add the name of the repo in the text file. 
+
+Then merge all to the master branch
+
+>>>>>>> 360854ec0ebf2f4f22e605cc450f0b68b9180663
